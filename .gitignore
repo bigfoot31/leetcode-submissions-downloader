@@ -1,0 +1,7 @@
+*.pyc
+
+submission_metadata
+parsed_code
+
+error.json
+problems.json
